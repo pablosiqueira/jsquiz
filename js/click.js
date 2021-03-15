@@ -1,11 +1,11 @@
 var cont = 0;
 var line = [];
-line[0] = ["Gryffindor","Snape","Chaser","Draco Malfoy","Paladin"];
-line[1] = ["Slytherin","McGonagall","Seeker","Harry Potter","Archer"];
-line[2] = ["Ravenclaw","Hagrid","Keeper","Rony Weasley","Mage"];
-line[3] = ["Hufflepuff","Flitwick","Beater","No One","Bard"];
+line[0] = ["Flight","Snape","Chaser","Draco Malfoy","Paladin"];
+line[1] = ["Mind Control","McGonagall","Seeker","Harry Potter","Archer"];
+line[2] = ["Super inteligence","Hagrid","Keeper","Rony Weasley","Mage"];
+line[3] = ["Super strength","Flitwick","Beater","No One","Bard"];
 var questions = [];
-questions[0] = ["Pick the house you don't want to be sorted into:"];
+questions[0] = ["Pick one superpower:"];
 questions[1] = ["Which professor is most likely to take house point away from you?"];
 questions[2] = ["Which quidditch position would you be most proficient at?"];
 questions[3] = ["And finnaly, who is the most annoying boy at hogwarts?"];
